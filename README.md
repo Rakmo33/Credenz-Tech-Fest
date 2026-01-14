@@ -1,4 +1,4 @@
-# 🎉 Credenz Live  
+# 🎉 Credenz  
 *Tech Fest Website for PICT IEEE Student Branch*
 
 Credenz Live is a **dynamic and visually engaging tech fest platform** built for the PICT IEEE Student Branch.  
