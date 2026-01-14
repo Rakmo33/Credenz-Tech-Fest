@@ -25,7 +25,7 @@
         "jQuery": "^1.7.4",
         "jquery": "^3.5.1",
         "jwt-decode": "^3.1.2",
-        "node-sass": "^5.0.0",
+        "sass": "^1.32.0",
         "npm-lifecycle": "^3.1.5",
         "popper.js": "^1.16.1",
         "react": "^16.14.0",

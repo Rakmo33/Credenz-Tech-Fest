@@ -1,25 +1,24 @@
 {
-  "name": "node-app",
+  "name": "credenz-website-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "NodeJS app for credenz website, REST-API structure",
+  "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.26",
-    "nodemailer": "^6.4.17",
-    "nodemon": "^2.0.7",
-    "request": "^2.88.2",
-    "twilio": "^3.55.0"
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "nodemailer": "^6.9.7",
+    "nodemon": "^3.0.2",
+    "twilio": "^4.19.0"
   }
 }
